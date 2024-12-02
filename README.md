@@ -35,8 +35,8 @@ A robust fintech API written in Go, designed to manage user accounts, handle sec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/banking-api.git
-   cd banking-api
+   git clone https://github.com/fedelombar/gofintech.git
+   cd gofintech
    ```
 
 2. Build and run the application with Docker:
