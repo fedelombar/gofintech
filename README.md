@@ -1,7 +1,3 @@
-Here's the updated README, now including Docker support and your Makefile setup:
-
----
-
 # Fintech API
 
 A robust fintech API written in Go, designed to manage user accounts, handle secure authentication, and facilitate operations such as account creation, login, and balance transfers.
